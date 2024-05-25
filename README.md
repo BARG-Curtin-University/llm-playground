@@ -1,4 +1,4 @@
-# LLM Lab
+# LLM Playground
 
 This repository is a curated collection of notebooks for learning about and experimenting with various aspects of Large Language Models (LLMs). Each folder contains notebooks focused on a specific aspect of LLMs, including chunking, embeddings, evaluation, fine-tuning, Retrieval-Augmented Generation (RAG), and more.
 
